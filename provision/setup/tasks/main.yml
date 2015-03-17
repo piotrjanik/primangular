@@ -1,0 +1,31 @@
+---
+- name: Install apt packages
+  sudo: yes
+  apt: pkg={{ item }} state=installed
+  with_items:
+    - nodejs
+    - nodejs-legacy
+    - npm
+    - git
+    - ruby-compass  # wymagane przez grunt'a
+
+- name: Install global nodejs modules
+  sudo: yes
+  npm: name={{ item }}  global=yes
+  with_items:
+    - gulp
+    - gulp-util
+    - grunt
+    - grunt-cli
+    - bower
+    - yo
+    - generator-gulp-angular
+    - karma
+    - protractor
+
+- name: Install local nodejs modules
+  command: npm install chdir=/vagrant
+
+
+- name: Link application sources
+  command: /bin/ln -s /vagrant /home/vagrant/src creates=/home/vagrant/src
