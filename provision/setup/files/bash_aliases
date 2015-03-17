@@ -1,0 +1,2 @@
+# żeby bower na dzień dobry nie zawieszał skryptów pytaniem o zgodę na wysyłanie danych
+alias bower='bower --config.interactive=false'
