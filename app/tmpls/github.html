@@ -1,0 +1,16 @@
+<table class="table table-condensed">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Repo</th>
+        <th>Temat</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr ng-repeat="repo in repos">
+        <td>{{repo.id}}</td>
+        <td>{{repo.full_name}}</td>
+        <td><a href="{{repo.html_url}}">{{repo.html_url}}</a></td>
+    </tr>
+    </tbody>
+</table>

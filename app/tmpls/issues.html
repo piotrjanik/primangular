@@ -1,0 +1,18 @@
+<table class="table table-condensed">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Projekt</th>
+        <th>Status</th>
+        <th>Temat</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr ng-repeat="issue in issues" ng-click="isBlue = !isBlue" >
+        <td ng-class="{'isBlue':isBlue}">{{issue.id}}</td>
+        <td>{{issue.project.name}}</td>
+        <td>{{issue.status.name}}</td>
+        <td>{{issue.subject}}</td>
+    </tr>
+    </tbody>
+</table>
