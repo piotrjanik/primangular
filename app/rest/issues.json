@@ -1,0 +1,1276 @@
+{
+  "issues": [
+    {
+      "id": 10177,
+      "project": {
+        "id": 111,
+        "name": "Support - kolejka"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 5,
+        "name": "High"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17452: Problem z aplikacj\u0105 Felicja",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17452",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta"
+        }
+      ],
+      "created_on": "2015-03-18T17:30:05Z",
+      "updated_on": "2015-03-18T17:30:05Z"
+    },
+    {
+      "id": 10176,
+      "project": {
+        "id": 111,
+        "name": "Support - kolejka"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 6,
+        "name": "Urgent"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17255: Zmiana statusu wniosku",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17255",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta"
+        }
+      ],
+      "created_on": "2015-03-18T17:25:05Z",
+      "updated_on": "2015-03-18T17:25:05Z"
+    },
+    {
+      "id": 10175,
+      "project": {
+        "id": 111,
+        "name": "Support - kolejka"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 6,
+        "name": "Urgent"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17454: Import polisy z Arena do OPUS 14008169",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17454",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta"
+        }
+      ],
+      "created_on": "2015-03-18T17:20:35Z",
+      "updated_on": "2015-03-18T17:20:35Z"
+    },
+    {
+      "id": 10174,
+      "project": {
+        "id": 111,
+        "name": "Support - kolejka"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 5,
+        "name": "High"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17196: 9050408 Pekao Hipoteka z\u0142o\u017cenie w Felicji Pekao",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17196",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta"
+        }
+      ],
+      "created_on": "2015-03-18T17:10:05Z",
+      "updated_on": "2015-03-18T17:10:05Z"
+    },
+    {
+      "id": 10173,
+      "project": {
+        "id": 111,
+        "name": "Support - kolejka"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 5,
+        "name": "High"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17604: Felicja - B\u0142\u0105d",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17604",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta"
+        }
+      ],
+      "created_on": "2015-03-18T17:00:05Z",
+      "updated_on": "2015-03-18T17:00:05Z"
+    },
+    {
+      "id": 10172,
+      "project": {
+        "id": 111,
+        "name": "Support - kolejka"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 5,
+        "name": "High"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17639: b\u0142\u0105d przy nadawaniu uprawnie\u0144",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17639",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta"
+        }
+      ],
+      "created_on": "2015-03-18T16:55:07Z",
+      "updated_on": "2015-03-18T16:55:07Z"
+    },
+    {
+      "id": 10171,
+      "project": {
+        "id": 111,
+        "name": "Support - kolejka"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 3,
+        "name": "Low"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17617: Felicja - B\u0142\u0105d",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17617",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta"
+        }
+      ],
+      "created_on": "2015-03-18T16:55:06Z",
+      "updated_on": "2015-03-18T16:55:06Z"
+    },
+    {
+      "id": 10170,
+      "project": {
+        "id": 206,
+        "name": "IB-3249 \u017bycie Pekao"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 17,
+        "name": "Prosba o wiecej informacji"
+      },
+      "priority": {
+        "id": 4,
+        "name": "Normal"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "assigned_to": {
+        "id": 37,
+        "name": "Wiktor Szpunar"
+      },
+      "subject": "PFELICJA-296/BLEDY-22600: B\u0142\u0119dna data zawarcia umowy kredytowej w felicji oraz Opus",
+      "description": "https://jira.allianz.com.pl/browse/BLEDY-22600",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "1"
+        }
+      ],
+      "created_on": "2015-03-18T16:25:06Z",
+      "updated_on": "2015-03-18T16:56:33Z"
+    },
+    {
+      "id": 10168,
+      "project": {
+        "id": 111,
+        "name": "Support - kolejka"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 7,
+        "name": "Immediate"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17720: [IMPORT_FELICJA][BIZNES_PLUS] AMP200064 : Suma sk\u0142adek przypisanych dla poszczeg\u00f3lnych cover'\u00f3w musi by\u0107 r\u00f3wna sumie rat",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17720",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta"
+        }
+      ],
+      "created_on": "2015-03-18T15:55:07Z",
+      "updated_on": "2015-03-18T15:55:07Z"
+    },
+    {
+      "id": 10167,
+      "project": {
+        "id": 5,
+        "name": "Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 6,
+        "name": "Urgent"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17718: [IMPORT_FELICJA][NNWG] AMP200064 : Suma sk\u0142adek przypisanych dla poszczeg\u00f3lnych cover'\u00f3w musi by\u0107 r\u00f3wna sumie rat",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17718",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 21,
+          "name": "Godziny oddane"
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 17,
+          "name": "\u0179r\u00f3d\u0142o b\u0142\u0119du"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta"
+        }
+      ],
+      "created_on": "2015-03-18T15:35:05Z",
+      "updated_on": "2015-03-18T15:40:36Z"
+    },
+    {
+      "id": 10166,
+      "project": {
+        "id": 5,
+        "name": "Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 6,
+        "name": "Urgent"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17717: [IMPORT_FELICJA][ALLIANZ_FIRMA] AMP200064 : Suma sk\u0142adek przypisanych dla poszczeg\u00f3lnych cover'\u00f3w musi by\u0107 r\u00f3wna sumie rat",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17717",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 21,
+          "name": "Godziny oddane"
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 17,
+          "name": "\u0179r\u00f3d\u0142o b\u0142\u0119du"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta"
+        }
+      ],
+      "created_on": "2015-03-18T15:30:06Z",
+      "updated_on": "2015-03-18T15:40:35Z"
+    },
+    {
+      "id": 10165,
+      "project": {
+        "id": 5,
+        "name": "Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 6,
+        "name": "Urgent"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17716: [IMPORT_FELICJA][BUSINESS_BUILDINGS] AMP200064 : Suma sk\u0142adek przypisanych dla poszczeg\u00f3lnych cover'\u00f3w musi by\u0107 r\u00f3wna sumie rat",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17716",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 21,
+          "name": "Godziny oddane"
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 17,
+          "name": "\u0179r\u00f3d\u0142o b\u0142\u0119du"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta"
+        }
+      ],
+      "created_on": "2015-03-18T15:30:05Z",
+      "updated_on": "2015-03-18T15:40:35Z"
+    },
+    {
+      "id": 10163,
+      "project": {
+        "id": 177,
+        "name": "IB-3260 TokenOut"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 7,
+        "name": "Do wdrozenia"
+      },
+      "priority": {
+        "id": 4,
+        "name": "Normal"
+      },
+      "author": {
+        "id": 30,
+        "name": "Adam Fabijanczyk"
+      },
+      "assigned_to": {
+        "id": 30,
+        "name": "Adam Fabijanczyk"
+      },
+      "subject": "PFELICJA-286/BLEDY-22381: Nie funkcjonuje zmiana to\u017csamo\u015bci",
+      "description": "",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T13:21:22Z",
+      "updated_on": "2015-03-18T13:22:32Z"
+    },
+    {
+      "id": 10161,
+      "project": {
+        "id": 5,
+        "name": "Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 17,
+        "name": "Prosba o wiecej informacji"
+      },
+      "priority": {
+        "id": 5,
+        "name": "High"
+      },
+      "author": {
+        "id": 26,
+        "name": "Micha\u0142 Kollesi\u0144ski"
+      },
+      "assigned_to": {
+        "id": 13,
+        "name": "Hubert Tywanek"
+      },
+      "subject": "SERWIS-16890: b\u0142\u0105d prowizji na polisach BMW",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-16890",
+      "start_date": "2015-03-10",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 21,
+          "name": "Godziny oddane",
+          "value": ""
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 17,
+          "name": "\u0179r\u00f3d\u0142o b\u0142\u0119du",
+          "value": ""
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T12:52:39Z",
+      "updated_on": "2015-03-18T12:55:33Z",
+      "closed_on": "2015-03-16T12:23:45Z"
+    },
+    {
+      "id": 10160,
+      "project": {
+        "id": 198,
+        "name": "OPUS NL Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 4,
+        "name": "Normal"
+      },
+      "author": {
+        "id": 57,
+        "name": "Tomasz Sznajder"
+      },
+      "subject": "SERWIS-16004: Prosz\u0119 o wygenerowanie polisy w Opus ",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-16018",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T12:30:36Z",
+      "updated_on": "2015-03-18T12:30:36Z"
+    },
+    {
+      "id": 10159,
+      "project": {
+        "id": 206,
+        "name": "IB-3249 \u017bycie Pekao"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 7,
+        "name": "Do wdrozenia"
+      },
+      "priority": {
+        "id": 4,
+        "name": "Normal"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "assigned_to": {
+        "id": 43,
+        "name": "Kamil Przetacki"
+      },
+      "subject": "PFELICJA-296/BLEDY-22592: walidacja na ilo\u015b\u0107 znak\u00f3w konsola admin w Felicji",
+      "description": "https://jira.allianz.com.pl/browse/BLEDY-22592",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T11:10:05Z",
+      "updated_on": "2015-03-18T14:12:53Z"
+    },
+    {
+      "id": 10158,
+      "project": {
+        "id": 5,
+        "name": "Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 5,
+        "name": "High"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17226: brak wznowienia w felicji",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17226",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 21,
+          "name": "Godziny oddane",
+          "value": ""
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 17,
+          "name": "\u0179r\u00f3d\u0142o b\u0142\u0119du",
+          "value": ""
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T10:55:08Z",
+      "updated_on": "2015-03-18T11:52:48Z"
+    },
+    {
+      "id": 10157,
+      "project": {
+        "id": 206,
+        "name": "IB-3249 \u017bycie Pekao"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 2,
+        "name": "W realizacji"
+      },
+      "priority": {
+        "id": 4,
+        "name": "Normal"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "assigned_to": {
+        "id": 43,
+        "name": "Kamil Przetacki"
+      },
+      "subject": "PFELICJA-296/BLEDY-22591: Skrypt zmieniaj\u0105cy format hr_id w felicji",
+      "description": "https://jira.allianz.com.pl/browse/BLEDY-22591",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T10:55:06Z",
+      "updated_on": "2015-03-18T16:58:24Z"
+    },
+    {
+      "id": 10156,
+      "project": {
+        "id": 5,
+        "name": "Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 17,
+        "name": "Prosba o wiecej informacji"
+      },
+      "priority": {
+        "id": 6,
+        "name": "Urgent"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "assigned_to": {
+        "id": 6,
+        "name": "Karol Kwiecie\u0144"
+      },
+      "subject": "SERWIS-17228: brak dost\u0119pu do zak\u0142adki  - komunikacja - NORTON",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17228",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 21,
+          "name": "Godziny oddane",
+          "value": ""
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 17,
+          "name": "\u0179r\u00f3d\u0142o b\u0142\u0119du",
+          "value": "Brak b\u0142\u0119du"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T10:50:06Z",
+      "updated_on": "2015-03-18T12:10:18Z"
+    },
+    {
+      "id": 10155,
+      "project": {
+        "id": 5,
+        "name": "Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 5,
+        "name": "High"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17195: Zaakceptowanie wniosku: 093-35137649",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17195",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 21,
+          "name": "Godziny oddane",
+          "value": ""
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 17,
+          "name": "\u0179r\u00f3d\u0142o b\u0142\u0119du",
+          "value": ""
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T10:25:06Z",
+      "updated_on": "2015-03-18T11:52:31Z"
+    },
+    {
+      "id": 10153,
+      "project": {
+        "id": 5,
+        "name": "Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 17,
+        "name": "Prosba o wiecej informacji"
+      },
+      "priority": {
+        "id": 5,
+        "name": "High"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "assigned_to": {
+        "id": 54,
+        "name": "Jakub K\u0142\u0119bek"
+      },
+      "subject": "SERWIS-17234: Felicja - B\u0142\u0105d",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17234",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 21,
+          "name": "Godziny oddane",
+          "value": ""
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 17,
+          "name": "\u0179r\u00f3d\u0142o b\u0142\u0119du",
+          "value": ""
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T09:45:05Z",
+      "updated_on": "2015-03-18T13:22:27Z"
+    },
+    {
+      "id": 10152,
+      "project": {
+        "id": 5,
+        "name": "Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 1,
+        "name": "Nowe"
+      },
+      "priority": {
+        "id": 5,
+        "name": "High"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "subject": "SERWIS-17425: Problem z kalkulatorem offline",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17425",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 21,
+          "name": "Godziny oddane",
+          "value": ""
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 17,
+          "name": "\u0179r\u00f3d\u0142o b\u0142\u0119du",
+          "value": ""
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T09:40:10Z",
+      "updated_on": "2015-03-18T09:54:11Z"
+    },
+    {
+      "id": 10151,
+      "project": {
+        "id": 5,
+        "name": "Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 17,
+        "name": "Prosba o wiecej informacji"
+      },
+      "priority": {
+        "id": 7,
+        "name": "Immediate"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "assigned_to": {
+        "id": 54,
+        "name": "Jakub K\u0142\u0119bek"
+      },
+      "subject": "SERWIS-17269: Felicja - B\u0142\u0105d",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17269",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 21,
+          "name": "Godziny oddane",
+          "value": ""
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 17,
+          "name": "\u0179r\u00f3d\u0142o b\u0142\u0119du",
+          "value": "Brak b\u0142\u0119du"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T09:35:06Z",
+      "updated_on": "2015-03-18T10:12:33Z"
+    },
+    {
+      "id": 10150,
+      "project": {
+        "id": 5,
+        "name": "Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 17,
+        "name": "Prosba o wiecej informacji"
+      },
+      "priority": {
+        "id": 6,
+        "name": "Urgent"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "assigned_to": {
+        "id": 54,
+        "name": "Jakub K\u0142\u0119bek"
+      },
+      "subject": "SERWIS-17262: Zmiana statusu wniosku",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17262",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 21,
+          "name": "Godziny oddane",
+          "value": ""
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 17,
+          "name": "\u0179r\u00f3d\u0142o b\u0142\u0119du",
+          "value": ""
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T09:35:06Z",
+      "updated_on": "2015-03-18T10:21:58Z"
+    },
+    {
+      "id": 10149,
+      "project": {
+        "id": 5,
+        "name": "Support"
+      },
+      "tracker": {
+        "id": 3,
+        "name": "Zmiana - jira"
+      },
+      "status": {
+        "id": 17,
+        "name": "Prosba o wiecej informacji"
+      },
+      "priority": {
+        "id": 5,
+        "name": "High"
+      },
+      "author": {
+        "id": 38,
+        "name": "system redmine"
+      },
+      "assigned_to": {
+        "id": 6,
+        "name": "Karol Kwiecie\u0144"
+      },
+      "subject": "SERWIS-17267: Felicja, b\u0142ad z wnioskiem",
+      "description": "https://jira.allianz.com.pl/browse/SERWIS-17267",
+      "start_date": "2015-03-18",
+      "done_ratio": 0,
+      "custom_fields": [
+        {
+          "id": 7,
+          "name": "Godziny zafakturowane",
+          "value": "0"
+        },
+        {
+          "id": 21,
+          "name": "Godziny oddane",
+          "value": ""
+        },
+        {
+          "id": 16,
+          "name": "CR",
+          "value": "0"
+        },
+        {
+          "id": 17,
+          "name": "\u0179r\u00f3d\u0142o b\u0142\u0119du",
+          "value": "Brak b\u0142\u0119du"
+        },
+        {
+          "id": 20,
+          "name": "wsparcie test\u00f3w klienta",
+          "value": "0"
+        }
+      ],
+      "created_on": "2015-03-18T08:20:07Z",
+      "updated_on": "2015-03-18T16:00:49Z"
+    }
+  ],
+  "total_count": 777,
+  "offset": 0,
+  "limit": 25
+}
