@@ -1,16 +1,19 @@
-<table class="table table-condensed">
-    <thead>
-    <tr>
-        <th>ID</th>
-        <th>Repo</th>
-        <th>Temat</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr ng-repeat="repo in repos">
-        <td>{{repo.id}}</td>
-        <td>{{repo.full_name}}</td>
-        <td><a href="{{repo.html_url}}">{{repo.html_url}}</a></td>
-    </tr>
-    </tbody>
-</table>
+<md-content>
+  <md-button class="md-fab" ng-click="getRepos()">
+    <span>Fetch</span>
+  </md-button>
+  <md-list>
+    <md-item ng-repeat="repo in repos">
+      <md-item-content>
+        <div class="md-tile-content">
+          <h3>{{repo.id}}</h3>
+          <h4>{{repo.full_name}}</h4>
+
+          <p>
+            {{repo.description}}
+          </p>
+        </div>
+      </md-item-content>
+    </md-item>
+  </md-list>
+</md-content>
